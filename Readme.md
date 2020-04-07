@@ -9,14 +9,3 @@ No installation required
 ```bash
 N/A
 ```
-
-## Usage
-
-```
-N/A
-```
-
-
-
-## License
-N/A
